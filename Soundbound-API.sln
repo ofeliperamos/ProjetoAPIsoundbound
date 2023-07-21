@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soundbound-API", "Soundbound-API.csproj", "{D8D595CE-3CEB-474D-ADFE-58C8AF4B56A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8D595CE-3CEB-474D-ADFE-58C8AF4B56A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8D595CE-3CEB-474D-ADFE-58C8AF4B56A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8D595CE-3CEB-474D-ADFE-58C8AF4B56A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8D595CE-3CEB-474D-ADFE-58C8AF4B56A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {346538DB-01AC-4C5B-99C4-09E12FCC55BD}
+	EndGlobalSection
+EndGlobal
